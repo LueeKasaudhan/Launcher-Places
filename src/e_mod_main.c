@@ -21,7 +21,7 @@ struct _Plugin
 static const Evry_API *evry = NULL;
 static Evry_Module *evry_module = NULL;
 static Eina_List *_plugins = NULL;
-static const char _module_icon[] = "find";
+//static const char _module_icon[] = "find";
 static const char *_mime_dir;
 static const char *_mime_mount;
 static Evry_Action *act_mount;
@@ -325,12 +325,9 @@ EAPI E_Module_Api e_modapi =
 EAPI void *
 e_modapi_init(E_Module *m)
 {
-   char buf[4096];
-
-   /* Location of message catalogs for localization */
-   snprintf(buf, sizeof(buf), "%s/locale", e_module_dir_get(m));
-   bindtextdomain(PACKAGE, buf);
-   bind_textdomain_codeset(PACKAGE, "UTF-8");
+		 /* Set up module locales*/
+   bindtextdomain(LOCALEDOMAIN, LOCALEDIR);
+   bind_textdomain_codeset(LOCALEDOMAIN, "UTF-8");
 
    EVRY_MODULE_NEW(evry_module, evry, _plugins_init, _plugins_shutdown);
 
