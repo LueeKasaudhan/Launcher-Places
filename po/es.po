@@ -1,12 +1,12 @@
-# Spanish translation for everything-places
-# This file is put in the public domain.
+# Spanish translation for launcher-places
+# This file is distributed under the same license as the launcher-places module.
 # Aníbal Garrido <khany@member.trisquel.info>, 2012.
-
+#
 msgid ""
 msgstr ""
-"Project-Id-Version: everything-places\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2012-11-08 02:06+0100\n"
+"Project-Id-Version: launcher-places\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"POT-Creation-Date: 2024-12-17 08:37-0500\n"
 "PO-Revision-Date: 2012-11-08 02:06+0100\n"
 "Last-Translator: Aníbal Garrido <khany@member.trisquel.info>\n"
 "Language-Team: Enlightenment Team\n"
@@ -15,11 +15,22 @@ msgstr ""
 "Content-Type: text/plain; charset=utf-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/e_mod_main.c:138
+#: src/e_mod_main.c:143
 msgid "Home"
 msgstr "Carpeta personal"
 
-#: src/e_mod_main.c:141
+#: src/e_mod_main.c:146
 msgid "Wallpaper"
 msgstr "Fondo de escritorio"
 
+#: src/e_mod_main.c:274 src/e_mod_main.c:284
+msgid "Places"
+msgstr ""
+
+#: src/e_mod_main.c:294
+msgid "Mount Drive"
+msgstr ""
+
+#: src/e_mod_main.c:299
+msgid "Unmount Drive"
+msgstr ""

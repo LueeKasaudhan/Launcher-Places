@@ -1,34 +1,46 @@
-# Lithuanian translation for enlightenment
-# Copyright (c) 2014 Rosetta Contributors and Canonical Ltd 2014
-# This file is distributed under the same license as the enlightenment package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, 2014.
+# Lithuanian translation for Launcher-places.
+# This file is distributed under the same license as the launcher-places module.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: enlightenment\n"
-"Report-Msgid-Bugs-To: FULL NAME <EMAIL@ADDRESS>\n"
-"POT-Creation-Date: 2013-06-19 11:30+0200\n"
+"Project-Id-Version: launcher-places\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"POT-Creation-Date: 2024-12-17 08:37-0500\n"
 "PO-Revision-Date: 2014-02-21 21:59+0000\n"
 "Last-Translator: Mantas Kriaučiūnas <mantas@akl.lt>\n"
 "Language-Team: Lithuanian <lt@li.org>\n"
+"Language: lt\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Launchpad-Export-Date: 2014-02-22 06:50+0000\n"
 "X-Generator: Launchpad (build 16926)\n"
 
-#: src/e_mod_main.c:618
-msgid "Pidgin"
+#: src/e_mod_main.c:143
+msgid "Home"
 msgstr ""
 
-#: src/e_mod_main.c:623
-msgid "Chat"
-msgstr "Susirašinėti"
+#: src/e_mod_main.c:146
+msgid "Wallpaper"
+msgstr ""
 
-#: src/e_mod_main.c:626
-msgid "Send File"
-msgstr "Siųsti failą"
+#: src/e_mod_main.c:274 src/e_mod_main.c:284
+msgid "Places"
+msgstr ""
 
-#: src/e_mod_main.c:629
-msgid "Write Message"
-msgstr "Rašyti žinutę"
+#: src/e_mod_main.c:294
+msgid "Mount Drive"
+msgstr ""
+
+#: src/e_mod_main.c:299
+msgid "Unmount Drive"
+msgstr ""
+
+#~ msgid "Chat"
+#~ msgstr "Susirašinėti"
+
+#~ msgid "Send File"
+#~ msgstr "Siųsti failą"
+
+#~ msgid "Write Message"
+#~ msgstr "Rašyti žinutę"

@@ -1,13 +1,12 @@
-# Russian translation of Everything-Places module
-# Copyright (C) 2012 Enlightenment development team
-# This file is distributed under the same license as the Enlightenment package.
+# Russian translation of Launcher-places module
+# This file is distributed under the same license as the launcher-places module.
 # Igor Murzov <e-mail@date.by>, 2012.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: Everything-Places\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2012-11-26 16:41+0400\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"POT-Creation-Date: 2024-12-17 08:37-0500\n"
 "PO-Revision-Date: 2012-12-20 19:25+0400\n"
 "Last-Translator: Igor Murzov <e-mail@date.by>\n"
 "Language-Team: Russian <ru@li.org>\n"
@@ -16,22 +15,22 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: src/e_mod_main.c:138
+#: src/e_mod_main.c:143
 msgid "Home"
 msgstr "Домашний каталог"
 
-#: src/e_mod_main.c:141
+#: src/e_mod_main.c:146
 msgid "Wallpaper"
 msgstr "Обои"
 
-#: src/e_mod_main.c:269 src/e_mod_main.c:279
+#: src/e_mod_main.c:274 src/e_mod_main.c:284
 msgid "Places"
 msgstr "Места"
 
-#: src/e_mod_main.c:289
+#: src/e_mod_main.c:294
 msgid "Mount Drive"
 msgstr "Подключить диск"
 
-#: src/e_mod_main.c:294
+#: src/e_mod_main.c:299
 msgid "Unmount Drive"
 msgstr "Отключить диск"
