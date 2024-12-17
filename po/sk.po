@@ -1,0 +1,38 @@
+# Slovak translation for the launcher-places module.
+# This file is distributed under the same license as the launcher-places module.
+# Štefan Uram <thewaiter@bodhilinux.com>, 2024.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: Everything-places\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"POT-Creation-Date: 2024-12-17 08:37-0500\n"
+"PO-Revision-Date: 2011-10-09 13:50+0200\n"
+"Last-Translator: Štefan Uram <thewaiter@bodhilinux.com>\n"
+"Language-Team: Slovak <kde-i18n-doc@kde.org>\n"
+"Language: sk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Lokalize 1.2\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
+
+#: src/e_mod_main.c:143
+msgid "Home"
+msgstr "Domovský adresár"
+
+#: src/e_mod_main.c:146
+msgid "Wallpaper"
+msgstr "Tapeta"
+
+#: src/e_mod_main.c:274 src/e_mod_main.c:284
+msgid "Places"
+msgstr "Miesta"
+
+#: src/e_mod_main.c:294
+msgid "Mount Drive"
+msgstr "Pripojiť disk"
+
+#: src/e_mod_main.c:299
+msgid "Unmount Drive"
+msgstr "Odpojiť disk"
