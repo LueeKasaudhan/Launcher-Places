@@ -1,13 +1,14 @@
 # SOME DESCRIPTIVE TITLE.
-# This file is put in the public domain.
+# Copyright (C) YEAR Bodhi Linux
+# This file is distributed under the same license as the PACKAGE package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 #, fuzzy
 msgid ""
 msgstr ""
 "Project-Id-Version: PACKAGE VERSION\n"
-"Report-Msgid-Bugs-To: enlightenment-devel@lists.sourceforge.net\n"
-"POT-Creation-Date: 2011-10-16 14:36+0200\n"
+"Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
+"POT-Creation-Date: 2024-12-17 08:37-0500\n"
 "PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
 "Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
@@ -16,10 +17,22 @@ msgstr ""
 "Content-Type: text/plain; charset=CHARSET\n"
 "Content-Transfer-Encoding: 8bit\n"
 
-#: ../src/e_mod_main.c:138
+#: src/e_mod_main.c:143
 msgid "Home"
 msgstr ""
 
-#: ../src/e_mod_main.c:141
+#: src/e_mod_main.c:146
 msgid "Wallpaper"
+msgstr ""
+
+#: src/e_mod_main.c:274 src/e_mod_main.c:284
+msgid "Places"
+msgstr ""
+
+#: src/e_mod_main.c:294
+msgid "Mount Drive"
+msgstr ""
+
+#: src/e_mod_main.c:299
+msgid "Unmount Drive"
 msgstr ""
