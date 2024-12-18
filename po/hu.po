@@ -9,7 +9,7 @@ msgstr ""
 "POT-Creation-Date: 2024-12-17 08:37-0500\n"
 "PO-Revision-Date: 2013-12-25 16:27+0100\n"
 "Last-Translator: rezso <rezso@rezso.net>\n"
-"Language-Team: Hungarian <LL@li.org>\n"
+"Language-Team: Hungarian\n"
 "Language: hu\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
@@ -26,7 +26,7 @@ msgstr "Háttérkép"
 
 #: src/e_mod_main.c:274 src/e_mod_main.c:284
 msgid "Places"
-msgstr ""
+msgstr "Helyek"
 
 #: src/e_mod_main.c:294
 msgid "Mount Drive"

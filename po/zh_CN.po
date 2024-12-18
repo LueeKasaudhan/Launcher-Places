@@ -25,7 +25,7 @@ msgstr "壁纸"
 
 #: src/e_mod_main.c:274 src/e_mod_main.c:284
 msgid "Places"
-msgstr ""
+msgstr "位置"
 
 #: src/e_mod_main.c:294
 msgid "Mount Drive"
