@@ -5,7 +5,7 @@
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: launcher-places 1.0\n"
+"Project-Id-Version: launcher-places\n"
 "Report-Msgid-Bugs-To: moksha@bodhilinux.com\n"
 "POT-Creation-Date: 2024-12-17 08:37-0500\n"
 "PO-Revision-Date: 2011-02-24 03:14+0100\n"
