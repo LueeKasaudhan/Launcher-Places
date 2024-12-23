@@ -1,5 +1,6 @@
 # Spanish translation for launcher-places
 # This file is distributed under the same license as the launcher-places module.
+#
 # Aníbal Garrido <khany@member.trisquel.info>, 2012.
 #
 msgid ""

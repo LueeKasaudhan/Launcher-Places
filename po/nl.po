@@ -1,6 +1,8 @@
 # Dutch translation for the Launcher-places module.
 # This file is distributed under the same license as the launcher-places module.
 #
+# Heimen Stoffels <vistausss@gmail.com>
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: launcher-places\n"

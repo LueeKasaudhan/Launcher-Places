@@ -1,5 +1,6 @@
 # French translation for launch-places module.
 # This file is distributed under the same license as the launcher-places module.
+#
 # batden <batden@orange.fr>, 2010.
 #
 msgid ""

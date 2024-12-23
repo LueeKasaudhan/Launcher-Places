@@ -1,6 +1,8 @@
 # Catalan translation for launcher-places.
 # This file is distributed under the same license as the launcher-places module.
 #
+# joancoll
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: Marc Furtià  i Puig\\\n"

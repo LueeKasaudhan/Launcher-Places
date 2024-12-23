@@ -1,6 +1,8 @@
 # Galician translation for launcher-places
 # This file is distributed under the same license as the launcher-places module.
 #
+# Miguel Anxo Bouzada <mbouzada@gmail.com>
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: launcher-places\n"

@@ -1,5 +1,6 @@
 # Arabic translation for launcher-places.
 # This file is distributed under the same license as the launcher-places module.
+#
 # sameeer hussain <almusalimalmusalimah> 2011.
 #
 msgid ""

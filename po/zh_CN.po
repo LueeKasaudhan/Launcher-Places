@@ -1,5 +1,6 @@
 # Chinese translations for Launcher-places module
 # This file is distributed under the same license as the launcher-places module.
+#
 # Aron Xu <happyaron.xu@gmail.com>, 2012.
 #
 msgid ""

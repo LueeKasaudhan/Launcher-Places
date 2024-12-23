@@ -1,6 +1,8 @@
 # Turkish translation for launcher-places
 # This file is distributed under the same license as the launcher-places module.
 #
+# Ali E.İMREK <alierkanimrek@gmail.com>
+#
 msgid ""
 msgstr ""
 "Project-Id-Version: launcher-places\n"

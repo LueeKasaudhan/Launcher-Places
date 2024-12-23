@@ -1,6 +1,7 @@
 # Hungarian translation of the Launcher-places module.
 # This file is distributed under the same license as launcher-places.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+# rezso <rezso@rezso.net>
 #
 msgid ""
 msgstr ""

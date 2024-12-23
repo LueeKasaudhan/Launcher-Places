@@ -1,5 +1,6 @@
 # Greek translations for Launcher-places module.
 # This file is distributed under the same license as the launcher-places module.
+#
 # ragecryx <ragecryx@yahoo.gr>, 2011.
 #
 msgid ""

@@ -1,5 +1,6 @@
 # Slovenian translation of launcher-places.
 # This file is distributed under the same license as the launcher-places module.
+#
 # r1to <renato.rener@gmail.com>, 2011.
 #
 msgid ""

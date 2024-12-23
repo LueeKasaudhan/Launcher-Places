@@ -1,5 +1,6 @@
 # Italian translation for Launcher-places.
 # This file is distributed under the same license as the launcher-places module.
+#
 # Massimo Maiurana <maiurana@gmail.com>, 2010.
 #
 msgid ""
