@@ -1,4 +1,4 @@
-# Arabic translation for launcher-places.
+# Arabic translation for the Launcher-Places module.
 # This file is put in the public domain.
 #
 # sameeer hussain <almusalimalmusalimah> 2011.

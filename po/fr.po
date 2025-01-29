@@ -1,5 +1,5 @@
-# French translation for launch-places module.
-# This file is distributed under the same license as the launcher-places module.
+# French translation for the Launcher-Places module.
+# This file is put in the public domain.
 #
 # batden <batden@orange.fr>, 2010.
 #

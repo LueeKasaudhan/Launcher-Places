@@ -1,5 +1,5 @@
-# German translations for Launcher-places module.
-# This file is distributed under the same license as the launcher-places module.
+# German translations for the Launcher-Places module.
+# This file is put in the public domain.
 #
 # George Koutsikos <ragecryx@yahoo.gr>
 #

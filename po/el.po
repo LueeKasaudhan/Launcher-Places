@@ -1,5 +1,5 @@
-# Greek translations for Launcher-places module.
-# This file is distributed under the same license as the launcher-places module.
+# Greek translations for the Launcher-Places module.
+# This file is put in the public domain.
 #
 # ragecryx <ragecryx@yahoo.gr>, 2011.
 #

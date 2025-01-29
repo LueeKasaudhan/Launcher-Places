@@ -1,5 +1,5 @@
-# Dutch translation for the Launcher-places module.
-# This file is distributed under the same license as the launcher-places module.
+# Dutch translation for the Launcher-Places module.
+# This file is put in the public domain.
 #
 # Heimen Stoffels <vistausss@gmail.com>
 #

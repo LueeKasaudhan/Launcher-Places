@@ -1,5 +1,5 @@
-# Catalan translation for launcher-places.
-# This file is distributed under the same license as the launcher-places module.
+# Catalan translation for the Launcher-Places module.
+# This file is put in the public domain.
 #
 # joancoll
 #
