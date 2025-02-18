@@ -7,7 +7,7 @@ Name[fr]=Lanceur du Raccourcis
 Name[gl]=Lanzador Lugares
 Name[it]=Launcher - Risorse
 Name[pl]=Launcher - Miejsca
-Name[pt]=Launcher - Locais
+Name[pt]=Lançador - Locais
 Name[ru]=Всё - Места
 Name[sk]=Spúšťač - Miesta
 Icon=e-module
@@ -18,7 +18,7 @@ Comment[fr]=Accès aux signets des dossiers et aux volumes montés.
 Comment[gl]=Accede ós marcadores dos cartafois e monta unidades.
 Comment[it]=Accede ai segnalibri delle cartelle e monta le unità.
 Comment[pl]=Umożliwia dostęp do zakładek folderów i montowanie dysków.
-Comment[pt]=Aceder a diretórios e montagem de unidades.
+Comment[pt]=Acede ao conteúdo de diretórios e discos montados.
 Comment[ru]=Доступ к закладкам каталогов и монтирование дисков.
 Comment[sk]=Sprístupní obsah adresárov a pripojených diskov.
 #Several different types available here. NEED TO DOC THESE.
