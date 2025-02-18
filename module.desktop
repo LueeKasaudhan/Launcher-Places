@@ -1,6 +1,7 @@
 [Desktop Entry]
 Type=Link
 Name=Launcher Places
+Name[cs]=Spouštěč - Místa
 Name[es]=Sitios del Lanzador
 Name[fr]=Lanceur du Raccourcis
 Name[gl]=Lanzador Lugares
@@ -8,9 +9,10 @@ Name[it]=Launcher - Risorse
 Name[pl]=Launcher - Miejsca
 Name[pt]=Launcher - Locais
 Name[ru]=Всё - Места
-Name[sk]=
+Name[sk]=Spúšťač - Miesta
 Icon=e-module
 Comment=Access folder bookmarks and mount drives.
+Comment[cs]=Zpřístupní obsah adresářů a připojených disků.
 Comment[es]=Accede a los marcadores de carpetas y monta unidades.
 Comment[fr]=Accès aux signets des dossiers et aux volumes montés.
 Comment[gl]=Accede ós marcadores dos cartafois e monta unidades.
@@ -18,6 +20,6 @@ Comment[it]=Accede ai segnalibri delle cartelle e monta le unità.
 Comment[pl]=Umożliwia dostęp do zakładek folderów i montowanie dysków.
 Comment[pt]=Aceder a diretórios e montagem de unidades.
 Comment[ru]=Доступ к закладкам каталогов и монтирование дисков.
-Comment[sk]=
+Comment[sk]=Sprístupní obsah adresárov a pripojených diskov.
 #Several different types available here. NEED TO DOC THESE.
 X-Enlightenment-ModuleType=launcher
