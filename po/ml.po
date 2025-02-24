@@ -1,4 +1,4 @@
-# Malayalam translations for launcher-places package.
+# Malayalam translations for the Launcher-Places module.
 # This file is put in the public domain.
 #
 # Automatically generated, 2025.
