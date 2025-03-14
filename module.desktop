@@ -9,6 +9,7 @@ Name[it]=Launcher - Risorse
 Name[ml]=ലോഞ്ചർ പ്ലേസ്സസ്
 Name[pl]=Launcher - Miejsca
 Name[pt]=Lançador - Locais
+Name[pt_BR]=Lançador - Locais
 Name[ru]=Всё - Места
 Name[sk]=Spúšťač - Miesta
 Icon=e-module
@@ -21,6 +22,7 @@ Comment[it]=Accede ai segnalibri delle cartelle e monta le unità.
 Comment[ml]=ഫോൾഡർ ബുക്ക്‌മാർക്കുകൾ ആക്‌സസ് കൂടാതെ ഡ്രൈവുകൾ മൌണ്ട് ചെയ്യുക. 
 Comment[pl]=Umożliwia dostęp do zakładek folderów i montowanie dysków.
 Comment[pt]=Acede ao conteúdo de diretórios e discos montados.
+Comment[pt_BR]=Acessar o conteúdo de diretórios e discos montados.
 Comment[ru]=Доступ к закладкам каталогов и монтирование дисков.
 Comment[sk]=Sprístupní obsah adresárov a pripojených diskov.
 #Several different types available here. NEED TO DOC THESE.
