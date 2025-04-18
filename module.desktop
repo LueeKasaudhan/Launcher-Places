@@ -12,6 +12,7 @@ Name[pt]=Lançador - Locais
 Name[pt_BR]=Lançador - Locais
 Name[ru]=Всё - Места
 Name[sk]=Spúšťač - Miesta
+Name[hi]=लॉन्चर स्थान
 Icon=e-module
 Comment=Access folder bookmarks and mount drives.
 Comment[cs]=Zpřístupní obsah adresářů a připojených disků.
@@ -25,5 +26,6 @@ Comment[pt]=Acede ao conteúdo de diretórios e discos montados.
 Comment[pt_BR]=Acessar o conteúdo de diretórios e discos montados.
 Comment[ru]=Доступ к закладкам каталогов и монтирование дисков.
 Comment[sk]=Sprístupní obsah adresárov a pripojených diskov.
+Comment[hi]=फ़ोल्डर, बुकमार्क और माउंटेड ड्राइव तक पहुंचें
 #Several different types available here. NEED TO DOC THESE.
 X-Enlightenment-ModuleType=launcher

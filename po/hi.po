@@ -18,20 +18,20 @@ msgstr ""
 
 #: src/e_mod_main.c:143
 msgid "Home"
-msgstr ""
+msgstr "होम"
 
 #: src/e_mod_main.c:146
 msgid "Wallpaper"
-msgstr ""
+msgstr "वॉलपेपर"
 
 #: src/e_mod_main.c:274 src/e_mod_main.c:284
 msgid "Places"
-msgstr ""
+msgstr "स्थान"
 
 #: src/e_mod_main.c:294
 msgid "Mount Drive"
-msgstr ""
+msgstr "माउंट ड्राइव"
 
 #: src/e_mod_main.c:299
 msgid "Unmount Drive"
-msgstr ""
+msgstr "अनमाउंट ड्राइव"
